@@ -10,7 +10,7 @@ You can, however, expand on details and set the tone for the scene. The story is
 
 You will use this repository which contains the basic structure of the story as your base. Next week in class we learn how to use GIT to combined our various parts into a single work.
 
-You will be assigned **TWO scenes** from the story. Download this repository. Each scene from the story has a folder labeled A through R. You can use the index.html file in that folder to build your document. Include any images and CSS you would like to include. 
+You will be assigned **TWO scenes** from the story. Download this repository. Each scene from the story has a folder labeled A through R. You can use the index.html file in that folder to build your document. Include any images and CSS you would like to include. If you need help setting up the basics of your HTML look to the index.html file in the main repository directory.
 
 Your scene needs to give the user the choices that lead them to the next scenes, as shown in the diagram. You can link to these other scenes by either using "/A/index.html" or "/A/". When pointing to a directory browswer automatically look for index.html.
 
